@@ -91,7 +91,7 @@ button:active{
     height: 45px;
     border-radius: 50%;
     background: #000;
-    border: 10px solid rgb(80, 127, 255);
+    border: 10px solid rgb(41, 98, 255);
 }
 
 @media (max-width:770px) {
