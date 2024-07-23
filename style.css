@@ -24,7 +24,7 @@ body{
 }
 #display{
     width: 100%;
-    padding: 10px;
+    padding: 20px;
     text-align: right;
     background-color: hsl(0, 0%, 0%);
     font-size: 50px;
@@ -112,12 +112,13 @@ button:active{
 }
 @media (max-width:400px){
     body{
-        gap: 30px;
+        gap: 5px;
     }
     .calculator{
-        scale: 0.8;
+        scale: 0.7;
+        box-shadow: 20px 40px 60px rgb(33, 33, 33);
     }
     .box{
-        scale: 0.8;
+        scale: 0.7;
     }
 }
