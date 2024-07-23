@@ -24,12 +24,13 @@ body{
 }
 #display{
     width: 100%;
-    padding: 20px;
-    text-align: left;
+    padding: 10px;
+    text-align: right;
     background-color: hsl(0, 0%, 0%);
-    font-size: 5rem;
+    font-size: 50px;
     color: white;
     border: none;
+    min-height: 70px;
 
 }
 .keys{
